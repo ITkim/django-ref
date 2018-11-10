@@ -2,7 +2,7 @@
 
 저장소로 보낼때
 ---
-~~~
+~~~4422
 git config --global user.name "사용자이름"
 git config --global user.email "이메일주소"
 git init
